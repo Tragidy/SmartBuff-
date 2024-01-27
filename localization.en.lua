@@ -248,6 +248,7 @@ SMARTBUFF_RACIAL[2]  = {"Perception", 0.333, SMARTBUFF_CONST_SELF}; -- Human
 SMARTBUFF_RACIAL[3]  = {"Blood Fury", 0.416, SMARTBUFF_CONST_SELF}; -- Orc
 SMARTBUFF_RACIAL[4]  = {"Berserking", 0.166, SMARTBUFF_CONST_SELF}; -- Troll
 SMARTBUFF_RACIAL[5]  = {"Will of the Forsaken", 0.083, SMARTBUFF_CONST_SELF}; -- Undead
+SMARTBUFF_RACIAL[5]  = {"Plainsrunning", 0.083, SMARTBUFF_CONST_SELF}; -- Tauren Racial Mount
 
 
 -- Creature type
